@@ -1,6 +1,6 @@
-# Active Directory PKI with Microsoft AD CS
+# Active Directory PKI Security with Microsoft AD CS
 
-An internal Public Key Infrastructure (PKI) project that secures an Active Directory environment through centralized certificate management, automated enrollment, encrypted directory access, and certificate-based remote access protection.
+A hands-on Windows Server security project implementing an internal Public Key Infrastructure (PKI) with Microsoft AD CS, Active Directory, GPO certificate auto-enrollment, LDAPS, TLS-secured RDP, and CA backup and recovery.
 
 ## Project Overview
 
