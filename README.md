@@ -33,6 +33,10 @@ Designed and implemented the PKI architecture, certificate automation, protocol 
 
 The implementation centralized certificate management, automated certificate deployment, protected LDAP and RDP communications, and added recovery readiness for the certification authority.
 
+## Project Presentation
+
+- [View the complete 13-page project presentation](docs/adcs-pki-infrastructure-presentation.pdf)
+
 ## Screenshots
 
 ![Project overview](assets/screenshots/project-01.jpg)
@@ -45,7 +49,7 @@ The implementation centralized certificate management, automated certificate dep
 
 [NEEDS INFO]
 
-Configuration files, scripts, and detailed deployment instructions were not included in the provided project source.
+Configuration files, scripts, and detailed deployment instructions have not been provided.
 
 ## Source
 
